@@ -1,5 +1,5 @@
 */
-* Example of how to great models for the devstack framework
+* Example of how to create models for the devstack framework
 /*
 
 <?php
