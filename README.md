@@ -53,6 +53,14 @@ Start xampp.
 ```
 Linux: ./xampp start
 ```
+You should see the following output.
+
+```
+Starting XAMPP for Linux 7.2.11-0...
+XAMPP: Starting Apache...already running.
+XAMPP: Starting MySQL...already running.
+XAMPP: Starting ProFTPD...already running.
+```
 
 Open a web browser and enter the following url.
 
