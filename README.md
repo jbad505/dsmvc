@@ -78,7 +78,7 @@ The config.php file needs to be updated with your database and website informati
 dsmvc/app/config/config.php
 ```
 
-## Versioning
+## Version
 
 ```
 dsmvc.v1
