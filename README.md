@@ -57,9 +57,9 @@ You should see the following output.
 
 ```
 Starting XAMPP for Linux 7.2.11-0...
-XAMPP: Starting Apache...already running.
-XAMPP: Starting MySQL...already running.
-XAMPP: Starting ProFTPD...already running.
+XAMPP: Starting Apache...ok.
+XAMPP: Starting MySQL...ok.
+XAMPP: Starting ProFTPD...ok.
 ```
 
 Open a web browser and enter the following url.
